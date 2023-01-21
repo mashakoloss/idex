@@ -1,1 +1,1 @@
-# idex
+# index
